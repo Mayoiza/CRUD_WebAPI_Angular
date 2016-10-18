@@ -1,0 +1,20 @@
+D:\CS Relevant\Programming Projects\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.csprojResolveAssemblyReference.cache
+D:\CS Relevant\Programming Projects\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.dll
+D:\CS Relevant\Programming Projects\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.pdb
+D:\CS Relevant\Programming Projects\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.dll
+D:\CS Relevant\Programming Projects\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.pdb
+C:\Users\Karim\Desktop\mai\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.dll
+C:\Users\Karim\Desktop\mai\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.pdb
+C:\Users\Karim\Desktop\mai\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.dll
+C:\Users\Karim\Desktop\mai\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.pdb
+C:\Users\Karim\Desktop\mai\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.csprojResolveAssemblyReference.cache
+C:\Users\Karim\Desktop\mai-Karim Project\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.dll
+C:\Users\Karim\Desktop\mai-Karim Project\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.pdb
+C:\Users\Karim\Desktop\mai-Karim Project\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.csprojResolveAssemblyReference.cache
+C:\Users\Karim\Desktop\mai-Karim Project\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.dll
+C:\Users\Karim\Desktop\mai-Karim Project\Mai Hassan CRUD_WebAPI\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.pdb
+D:\Project\New folder\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.dll
+D:\Project\New folder\MH_CRUD\MH_CRUD_Model\bin\Debug\MH_CRUD_Model.pdb
+D:\Project\New folder\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.csprojResolveAssemblyReference.cache
+D:\Project\New folder\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.dll
+D:\Project\New folder\MH_CRUD\MH_CRUD_Model\obj\Debug\MH_CRUD_Model.pdb
